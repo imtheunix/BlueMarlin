@@ -1,5 +1,5 @@
 const req = new XMLHttpRequest();
-const baseUrl = "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyCCuyFht3j5OBrLNiRo688gwpD7ZGtrADM";
+const baseUrl = "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=";
 const urlParams = JSON.stringify({
     "client": {
       "clientId": "BlueMarlin",
