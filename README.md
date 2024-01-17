@@ -4,7 +4,7 @@ Google safe browsing API implemented to check redirections.
 
 To be done:
 
-Connect to more queryes to search malicious websites lists;
+Connect to more queries to search malicious websites lists;
 SSL certificate validation;
 Page content and script analysis;
 Educational components;
