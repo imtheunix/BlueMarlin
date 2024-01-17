@@ -15,5 +15,6 @@ User feedback form.
 If you enjoyed the idea, you help paying one coffe so I can continue working on it:
 
 Solana: 4RXGMKHEEb1YuCSzAEAiSLzSAucUPjwjq6QkUrznCoPw
+
 BTC: bc1qenh5tn40xa5qvfd87shlzemc4ls6ymmteyj8gw
 
